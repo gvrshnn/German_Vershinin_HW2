@@ -1,2 +1,5 @@
-# German_Vershinin_HW2
-Homework #2 from any background into data science
+П андас
+И спользуется
+Д ля
+О рганизации
+Р аботы с табличными данными
